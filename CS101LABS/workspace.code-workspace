@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"lab7",
+			"Lab9_2",
+			"lab10"
+		]
+	}
+}
